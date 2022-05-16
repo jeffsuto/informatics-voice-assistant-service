@@ -1,0 +1,24 @@
+language: "en"
+policies:
+  - name: "KerasPolicy"
+    max_history: 10
+    epochs: 97
+  - name: "MemoizationPolicy"
+    max_history: 5
+  - name: "FallbackPolicy"
+    nlu_threshold: 0.4
+    ambiguity_threshold: 0.1
+    core_threshold: 0.3
+    fallback_action_name: "utter_unclear"
+pipeline:
+- name: "SpacyNLP"
+- name: "SpacyTokenizer"
+- name: "RegexFeaturizer"
+- name: "SpacyFeaturizer"
+- name: "CRFEntityExtractor"
+- name: "EntitySynonymMapper"
+  token_pattern: (?u)\b\w+\b
+- name: "EmbeddingIntentClassifier"
+- name: "CountVectorsFeaturizer"
+intent_tokenization_flag: false
+intent_split_symbol: "+"

@@ -1,0 +1,1750 @@
+## intent:exam_schedule
+- jadwal [uas](exam) [1461600044](nbi)
+- info jadwal [uas](exam) [1461600044](nbi)
+- [uas](exam) kapan dilaksanakan nbi [1461 60 0 044](nbi)
+- [uas](exam) kapan
+- kira kira [uas](exam) kapan [1461600009](nbi)
+- [uas](exam) bulan apa ya [146 1600044](nbi)
+- [uas](exam) tanggal berapa ya
+- info jadwal [uas](exam) [1461700044](nbi)
+- kira kira jadwal uas kapan [1461600077](nbi)
+- info jadwal [uas](exam)
+- kalau [uas](exam) kapan
+- jadwal [uas](exam)
+- [uasnya](exam:uas) kapan
+- [uas](exam) kapan
+- jadwal [uas](exam) kapan ya
+- [uas](exam) dimulai kapan
+- [uas](exam) dilaksanakan kapan
+- kalo uasnya kapan nb [1461600104](nbi)
+- [uasnya](exam:uas) kapan woy [1461600040](nbi)
+- [uas-nya](exam:uas) kapan nih
+- [ujian akhir semesternya](exam:uas) kapan ya
+- [uts-nya](exam:uts) tanggal berapa
+- btw [utsnya](exam:uts) kapan ya
+- [ujian tengah semesternya](exam:uts) kapan ya
+- tanggal berapa [ujian tengah semesternya](exam:uts)
+- tanggal berapa dilaksanakannya uts
+- jadwal [uts](exam)
+- info jadwal [uts](exam) dong [1461600074](nbi)
+- [uts](exam) tanggal berapa
+- [uts](exam) bulan apa
+- kapan [uts](exam)
+- kira kira [uts](exam) kapan nb [146 1 6 0 0 044](nbi)
+- [uts](exam) dilaksanakan kapan
+- untuk jadwal [uts](exam) kapan ya
+- [uts](exam) kapan
+- jadwal [uts](exam) kapan ya
+- [uts](exam) kapan
+- jadwal [uts](exam) kapan
+- jadwal [uts](exam)
+- [utsnya](exam:uts) kapan [146160 0090](nbi)
+- utsnya kapan
+- ada info jadwal [uts](exam) ga
+- kapan [uts](exam)
+- eh [utsnya](exam:uts) kapan
+- eh [utsnya](exam:uts) kapan
+- [utsnya](exam:uts) kapan woi
+- kapan ya [uts](exam)
+- eh kamu tahu [utsnya](exam:uts) dimulai kapan
+- jadwal [uts](exam)
+- [uasnya](exam:uas) kapan ya
+- [ujian tengah semester](exam:uts) semester ini tanggal berapa
+- jadwal [uts](exam) kapan nb [1461620044](nbi)
+- [utsnya](exam:uts) kapan ya
+- minta jadwal [uas](exam)
+- [ujian akhir](exam:uas) kapan
+- [ujian akhir semester](exam:uas) kapan nih
+- jadwal ujian [uts](exam) kapan ya [146 160004 4](nbi)
+- ini [ujian](exam) [uasnya](exam:uas) kapan
+- kapan nih [utsnya](exam:uts)
+- jadwal [uas](exam) sekarang
+- jadwal [ujian tengah semester](exam:uts)
+- jadwal [ujian akhir semester](exam:uas)
+- ujian [utsnya](exam:uts) kapan ini
+- kalo ujian [uasnya](exam:uas) kapan
+- jadwal ujian [uas](exam)
+- [uts](exam) ku kapan ya
+- jadwal [uasku](exam:uas) kapan nih
+- jadwal [uts](exam) kapan
+- ada jadwal [uts](exam)
+- [uas](exam) hari apa [1461600040](nbi)
+- jadwal [utsnya](exam:uts) kapan sih
+- jadwalnya [uts](exam) [sekarang](time) apa
+- jadwalnya [uas](exam) [sekarang](time) apa
+- jadwal [uts](exam)
+- jadwal [uas](exam)
+- ada jadwal [ulangan akhir semester](exam:uas)
+- minta jadwal [uts](exam) dong
+- eh kapan [utsnya](exam:uts)
+- kapan ini [uasnya](exam:uas)
+- [uas-nya](exam:uas) kapan nih [14616001 44](nbi)
+- jadwalku [uas](exam) tanggal berapa aja
+- tanggal berapa [uas](exam)-nya
+- tanggal berapa [uas](exam)-nya
+- eh [uts-nya](exam:uts) kapan
+- sudah ada belum jadwal [uas](exam)
+- kapan [uts](exam)-nya nih
+- kapan ya kira kira ini [uas](exam)-nya [1461600244](nbi)
+- [uts](exam)-nya ini kapan sih
+- kapan ya [uas](exam)-nya kira kira tanggal berapa
+- tanggal berapa [uas](exam)
+- kapan ya kira kira [uts](exam)-nya
+- kapan ya kira kira [uasnya](exam:uas)
+- jadwal [uts](exam)-nya ada nggak nbi [1461600047](nbi)
+- jadwal [utsnya](exam:uts) kapan iva
+- kapan [uts](exam)
+- minta tolong tampilkan jadwal [uas](exam) dong
+- kapan nih [uts](exam) nya [1461600064](nbi)
+- jadwalnya [uas](exam)
+- punya jadwal [uts](exam)
+- [uts](exam) kapan ya
+- ada jadwal [uts](exam)
+- jadwal [uts](exam)-nya sudah keluat ta
+- kapan jadwal [uts](exam)
+- [ujian akhir semester](exam:uas) kapan
+
+## intent:goodbye
+- bye
+- selamat tinggal
+- bye
+- bye bye
+- dadah
+- bye bye
+- bye
+- bye bye
+- selamat tinggal
+- bye
+- dadah
+- dadah
+- sampai jumpa
+- sampai jumpa
+- bye iva
+- sampai jumpa
+- selamat tinggal
+- sampai nanti
+- selesai
+- dadah
+- ya sudah kalau gitu sampai nanti
+- bye bye
+- selamat tinggal
+- bye
+- sampai nanti
+- dadah
+- bye
+- sampai nanti
+- sampai jumpa iva
+- sampai jumpa
+- sampai jumpa
+- bye
+- sampai jumpa
+- selamat tinggal
+- sampai [nanti](time:selanjutnya) ya
+- bye
+- sampai jumpa
+- dadah
+- bye bye
+- sampai jumpa lagi
+- sampai [nanti](time:selanjutnya) ya iva
+
+## intent:greet
+- hi
+- hallo
+- apa kabar
+- hey
+- hi
+- hi
+- hi
+- hi
+- hi
+- hi
+- hi
+- hi
+- hey
+- halo
+- hello
+- hai
+- hey
+- halo
+- permisi
+- halo
+- permisi
+- halo
+- hey
+- hi
+- halo
+- hai
+- hi
+- hey
+- hai
+- halo
+- hey
+- hei
+- halo
+- hi
+- halo
+- hi
+- hai
+- hello
+- hai
+- halo halo
+- hey hey
+- hey hey
+- woy
+- oi
+- hei
+- hoi
+- hai iva
+- hai iva
+- hai
+- hai iva
+- halo
+- halo iva
+- hai iva
+- hai iva
+- halo iva
+- halo
+- iva
+- halo
+- halo
+- halo
+- permisi
+- hey iva
+- pagi iva
+- halo guys
+- hey iva
+- siang iva
+- sore
+- malam
+- hey guys
+- iva aku butuh info
+- hai bos
+- hey sis
+- halo
+- hey iva
+- permisi iva
+- hai iva
+- hai
+- hai
+- hai sis
+- hai selamat pagi
+- hai apa kabar
+- hai iva
+- hai sis
+- hi
+- hai
+- hai
+- hey hey hey
+
+## intent:lecturer
+- pak [ardy](lecturer)
+- pak [agus hermanto](lecturer)
+- pak [agus darwanto](lecturer)
+- bu [anis rahmawati](lecturer)
+- bu [yusrida](lecturer)
+- [nuril](lecturer)
+- [nuril esti](lecturer)
+- [sugiono](lecturer)
+- atas nama bu [anis](lecturer)
+- atas nama pak [agung kridoyono](lecturer)
+- pak [agil](lecturer)
+- [sugiono](lecturer)
+- pak [anton](lecturer)
+- pak [habib](lecturer)
+- [elsen ronando](lecturer)
+- [elsen](lecturer)
+- bapak [aris](lecturer)
+- dengan bu [rini](lecturer)
+- [fajar](lecturer)
+- pak [agus hermanto](lecturer)
+- pak [agil](lecturer)
+- [aidil](lecturer)
+- hoe
+- bapak [naufal](lecturer)
+- [sugiono](lecturer)
+- pak [sugi](lecturer)
+- [fajar astuti](lecturer)
+- [fajar astuti](lecturer)
+- pak [sugi](lecturer)
+- pak [bagus](lecturer)
+- [agung](lecturer)
+- [fajar](lecturer)
+- [anton](lecturer)
+- [yusrida](lecturer)
+- [aris sudaryanto](lecturer)
+- [fajar astuti](lecturer)
+- [nuril](lecturer)
+- pak [aidil](lecturer)
+- [agyl ardi](lecturer)
+- [firdaus](lecturer)
+- [anang pramono](lecturer)
+- pak [agus hermanto](lecturer)
+- bu [luvia](lecturer)
+- [luvia](lecturer)
+- [rini](lecturer)
+- [sherli](lecturer)
+- [andre](lecturer)
+- pak [ardi](lecturer)
+- pak [anton](lecturer)
+- pak [bagus](lecturer)
+- [agus dar](lecturer)
+- [luvia](lecturer)
+- bu [rini](lecturer)
+- [andre](lecturer)
+- [luvia](lecturer)
+- [andre](lecturer)
+- pak [ardi](lecturer)
+- bu [luvia](lecturer)
+- [ardi](lecturer)
+- pak [aidil](lecturer)
+- pak [sugi](lecturer)
+- [agyl rahmadi](lecturer)
+
+## intent:lecturer_location
+- di mana bapak [gerry](lecturer)
+- di mana ibu [anis](lecturer)
+- ibu [nuril](lecturer) di mana
+- [elsen](lecturer) di mana
+- [aris](lecturer) di mana
+- [nuril](lecturer) di mana
+- posisi [gerry](lecturer)
+- posisi [yusrida](lecturer)
+- di mana posisi bapak [agus](lecturer)
+- posisi ibu [luvia](lecturer) di mana
+- di mana pak [Sugiono](lecturer) sekarang
+- di mana pak [aris](lecturer) sekarang
+- lokasi pak [Agus hermanto](lecturer)
+- lokasi pak [ery](lecturer)
+- di mana saya bisa menemui pak [Supangat](lecturer)
+- di mana saya bisa menemui bu [luvia](lecturer)
+- ada di mana pak [agil](lecturer) sekarang
+- lokasi bapak [gery](lecturer)
+- lokasi bu [nuril](lecturer)
+- dimanakah pak [aris](lecturer) sekarang
+- dimana saya bisa menemui pak [aher](lecturer)
+- bu [fajar](lecturer) ada dimana
+- pak [agil](lecturer) ada dimana
+- lokasi terkini bu [yusrida](lecturer)
+- lokasi terkini pak [anton](lecturer)
+- saya mencari bu [anis](lecturer), info lokasi dong.
+- saya mencari bu [farida kusuma](lecturer), info lokasi dong.
+- kira - kira pak [agus darwanto](lecturer) dimana
+- kasih tahu dong lokasi pak [fridi](lecturer)
+- kasih tahu dong lokasi bu [galuh](lecturer)
+- pak [bagus](lecturer) [sekarang](time) dimana ya
+- lokasi pak [elsen](lecturer) [sekarang](time) dimana ya
+- aduh saya butuh lokasi pak [sugi](lecturer), kira kira beliau ada dimana
+- aduh aku butuh lokasi pak [aher](lecturer), kira kira ada dimana ya beliau
+- pak [agung](lecturer) dimana
+- pak [sugiono](lecturer) [sekarang](time) dimana ya
+- saya butuh info lokasi pak [aher](lecturer)
+- info lokasi dosen
+- dimana pak [aris](lecturer) sekarang
+- lokasi terkini bu [fajar](lecturer)
+- saya butuh lokasi bu [nuril](lecturer)
+- info lokasi dosen
+- kalau pak [agung kridoyono](lecturer) [sekarang](time) dimana
+- beliau [sekarang](time) dimana
+- [sekarang](time) pak [aris](lecturer) dimana
+- pak [aris](lecturer) dimana
+- saya mencari pak [ery](lecturer). beliau [sekarang](time) dimana ya
+- pak [aris](lecturer) dimana
+- lokasi pak [bagus](lecturer)
+- pak [sugi](lecturer) dimana
+- dimana bu [nuril](lecturer) sekarang
+- bu [yusrida](lecturer) [sekarang](time) dimana
+- saya mencari keberadaan bu [berlin](lecturer)
+- pak [agus](lecturer) dimana ya
+- saya ingin menemui bu [anis rahmawati](lecturer) dimana ya beliau
+- bu [putri](lecturer) [sekarang](time) dimana
+- pak [fridi](lecturer) dimana
+- pak [anton](lecturer) [sekarang](time) ada di mana
+- aku perlu lokasi pak [aher](lecturer)
+- lokasi dosen
+- info lokasi pak [muaffaq](lecturer) [sekarang](time) dimana
+- mau tanya lokasi dosen
+- lokasi dosen pak [elsen ronando](lecturer)
+- dimana bu [anis](lecturer)
+- pak [agil](lecturer) dimana
+- lagi nyari dosen
+- bu [fajar](lecturer) dimana
+- bu [anis](lecturer) dimana ya
+- saya lagi nyari pak [aidil](lecturer)
+- mau tanya lokasinya pak [pangat](lecturer)
+- pak [muaffaq](lecturer) [sekarang](time) dimana
+- beliau [sekarang](time) ada dimana ya
+- pak [agus](lecturer) dimana
+- cari lokasi pak [fridi](lecturer)
+- lagi nyari bu [nuril](lecturer)
+- [sekarang](time) pak [agus hermanto](lecturer) dimana
+- dimana pak [agil](lecturer)
+- pak [aidil](lecturer) ada di kelas apa sekarang
+- lagi nyari dosen
+- bu [fajar](lecturer) dimana
+- [sekarang](time) pak [ery](lecturer) ada dimana
+- posisi [elsen](lecturer)
+- posisi [aris](lecturer)
+- posisi [aher](lecturer)
+- posisi [agung kridoyono](lecturer)
+- [elsen](lecturer) di mana
+- [agus darwanto](lecturer) di mana
+- bu [anis](lecturer) di mana ya
+- di mana [sugiono](lecturer) sekarang
+- cari [aris](lecturer) di mana
+- cari [aris](lecturer) di mana
+- posisi [gery](lecturer)
+- lokasinya di mana
+- lagi nyari pak [fridi](lecturer)
+- di mana bapak [aris](lecturer)
+- pak [gery](lecturer) mana woy
+- pak [gery](lecturer) mana woy
+- cari pak [aris](lecturer)
+- posisi pak [agung](lecturer)
+- he aku nyari pak [sugiono](lecturer)
+- posisi [supangat](lecturer)
+- saya mencari posisi pak [agus dar](lecturer)
+- di manakah pak [agung](lecturer) sekarang
+- di manakah [gery](lecturer)
+- [sekarang](time) di mana nih bu [fajar](lecturer)
+- sis di mana pak [aris](lecturer)
+- sis di mana pak [aris](lecturer)
+- please posisi pak [sugiono](lecturer) [sekarang](time) dimana mbak
+- kamu tahu pak [ardi](lecturer) [sekarang](time) di mana
+- tahu bu [fajar](lecturer) [sekarang](time) ada di mana
+- bu [fajar](lecturer) di mana
+- pak [elson](lecturer) [sekarang](time) di mana
+- bu [fajar](lecturer) di mana
+- kamu tahu pak [pangat](lecturer) [sekarang](time) ada di mana
+- bapak [ery](lecturer) [sekarang](time) di mana
+- pak [aher](lecturer) [sekarang](time) di mana ya
+- bu [yusrida](lecturer) ada di mana ya sekarang
+- pak [sugi](lecturer) [sekarang](time) di kelas nggak
+- pak [andre](lecturer) di mana
+- bu [fajar](lecturer) di mana
+- di mana [sekarang](time) pak [anton](lecturer)
+- beliau [sekarang](time) di mana
+- aku lagi nyari lokasi dosen
+- bu [fajar](lecturer) ada di mana nih
+- aku lagi mencari dosen
+- ini aku lagi nyari pak [agung](lecturer) di mana ya beliau
+- info lokasinya pak [ardi](lecturer) dong
+- pak [aidil](lecturer) di mana ya sekarang
+- pak [aidil](lecturer) di mana
+- pak [anton](lecturer) ada di kelas nggak sekarang
+- [nuril](lecturer) di mana
+- tahu bu [yusrida](lecturer) di mana
+- di mana pak [sugi](lecturer) hari ini
+- pak [gery](lecturer) di mana ya saya mau ketemu beliau
+- kalo pak [agyl](lecturer) [sekarang](time) di mana
+- pak [sidqon](lecturer) di kampus ta sekarang
+- kamu tahu pak [ery](lecturer) di mana
+- [sekarang](time) lokasinya pak [agus dar](lecturer) di mana
+- ada data keberadaan [anton](lecturer)
+- lokasi pak [gery](lecturer)
+- pak [anton](lecturer) mana
+- bu [nuril](lecturer) di mana
+- pak [aris](lecturer) mana
+- [fajar](lecturer) di mana sis
+- dimana pak [ery](lecturer) sekarang
+- di mana beliau
+- di mana pak [gery](lecturer) saat ini
+- bu [harini](lecturer) di mana
+- lokasi pak [gery](lecturer) sekarang
+- [agyl](lecturer) di mana
+- pak [gery](lecturer) di mana
+- tahu pak [agung](lecturer) di mana sekarang
+- kamu tahu bu [fajar](lecturer) lokasinya di mana aku lagi nyari beliau soalnya
+- [sugi](lecturer) posisi
+- aku butuh lokasinya pak [aher](lecturer)
+- bu [nuril](lecturer) [sekarang](time) ngajar jam berapa
+- info lokasinya pak [sugiono](lecturer)
+- ada info lokasinya pak [sugiono](lecturer)
+- dimana lokasinya pak [bagus](lecturer)
+- lokasi pak [sugiono](lecturer)
+- ada info lokasi pak [agyl rahmadi](lecturer)
+- ada info lokasinya pak[ nuril est](lecturer:nuril esti)i
+- info lokasi bu [astuti](lecturer)
+- info lokasi pak [anton](lecturer)
+- info lokasi bu [fajar astuti](lecturer)
+- info lokasi bu [fajar](lecturer)
+- info di mana pak [bagus](lecturer)
+- kamu punya info pak [anton](lecturer) [sekarang](time) dimana
+- info lokasi pak [anton](lecturer)
+- info lokasi bu [fajar astuti](lecturer)
+- info lokasi bu [fajar](lecturer)
+- info di mana pak [bagus](lecturer)
+- kamu punya info pak [anton](lecturer) [sekarang](time) dimana
+- info lokasi bu [nuril](lecturer)
+- ada info di mana bu [fajar](lecturer)
+- info lokasinya bu [yus](lecturer)
+- informasi lokasi pak [muaaffaq](lecturer)
+
+## intent:lecturer_schedule
+- kamu tahu nggak jadwalnya pak [erry](lecturer)
+- jadwalnya pak [sugiono](lecturer) [hari ini](day)
+- jadwalnya bapak [bagus](lecturer) [besok](day)
+- jadwalnya pak [naufal](lecturer) [hari ini](day)
+- ada jadwalnya bapak [ery](lecturer) [hari selasa](day:Selasa)
+- punya jadwalnya pak [gery](lecturer) [hari ini](day)
+- ada jadwalnya bu [nuril](lecturer) [hari Kamis](day:Kamis)
+- punya jadwalnya bu [eny](lecturer) [hari ini](day)
+- jadwalnya ibu [fajar](lecturer) [hari ini](day)
+- cari jadwalnya ibu [rini](lecturer) [hari ini](day)
+- [hari senin](day:Senin) jadwalnya pak [aidil](lecturer) apa aja
+- [selasa](day) jadwalnya bapak [agyl](lecturer) apa aja
+- [besok rabu](day:Rabu) jadwalnya pak [agus hermanto](lecturer) apa aja
+- [hari jumat](day:Jumat) jadwalnya bapak [fridi](lecturer) apa aja
+- aku minta jadwalnya [sugiono](lecturer) [besok](day)
+- saya minta jadwal mengajar pak [aher](lecturer) [kamis](day)
+- [hari ini](day) pak [anton](lecturer) ngajar di mana saja
+- jadwal kelas [hari senin](day:Senin) [elsen ronando](lecturer)
+- minta jadwal kelas pak [elsen](lecturer) [hari ini](day)
+- aku minta jadwalnya [anis](lecturer) [besok](day)
+- saya minta jadwal mengajar bu [fajar](lecturer) [kamis](day)
+- [hari ini](day) ibu [yusrida](lecturer) ngajar di mana saja
+- jadwal kelas [hari senin](day:Senin) [nuril esti](lecturer)
+- minta jadwal kelas bu [luvia](lecturer) [hari ini](day)
+- minta jadwal ngajarnya bu [yusrida](lecturer)
+- minta jadwal ngajarnya bu [sherlina](lecturer) hari [selasa](day)
+- kamu ada jadwal mengajarnya pak [andre](lecturer) nggak
+- ada jadwal ngajar pak [elson](lecturer)
+- lihat jadwalnya pak [ardi](lecturer) dong
+- jadwalnya [elson ronando](lecturer)
+- minta jadwalnya pak [runadi](lecturer)
+- carikan jadwal mengajar bapak [muaaffaq](lecturer)
+- pak [anton](lecturer) hari [senin](day) ada kelas apa nggak
+- pak [agung kridoyono](lecturer) hari [jumat](day) ada kelas apa nggak
+- pak [habib](lecturer) hari [kami](day) ada kelas apa nggak
+- ada kelas apa nggak pak [agyl](lecturer) [hari ini](day)
+- ada kelas apa nggak pak [gery](lecturer) [hari ini](day)
+- jadwal kelas pak [fir](lecturer) [hari ini](day)
+- minta jadwal ngajarnya pak [sugiono](lecturer) dong
+- ada jadwal ngajarnya bu [nuril](lecturer)
+- pak [aris](lecturer) [besok](day) jadwalnya di mana aja
+- jadwalnya pak [sugi](lecturer) [nanti](time:selanjutnya) apa
+- bu [fajar](lecturer) [besok](day) ada jadwal apa nggak
+- minta jadwalnya pak [pangat](lecturer)
+- [hari kamis](day:Kamis) jadwalnya bu [luvia](lecturer) apa
+- [besok](day) pak [sugi](lecturer) jadwal ngajarnya apa aja
+- hari [jumat](day:Jumat) pak [agyl](lecturer) jadwalnya apa
+- [besok](day) ada ngajar nggak pak [aris](lecturer)
+- ada jadwalnya [anton](lecturer)
+- jadwal [kamis](day:Kamis) pak [andre](lecturer)
+- ada jadwalnya pak [ery](lecturer) nggak
+- ada jadwal mengajarnya pak [ardi](lecturer) buat [besok](day)
+- minta jadwalnya bu [nuril](lecturer)
+- minta jadwal mengajarnya bu [luvia](lecturer) dong
+- kamu ada jadwalnya pak [gerry](lecturer)
+- pak [agung kridoyono](lecturer) hari [rabu](day:Rabu) ngajar apa
+- pak [habib](lecturer) [hari ini](day) ngajar apa
+- jadwal pak [agung kridoyono](lecturer)
+- jadwal bu [nuril](lecturer)
+- jadwal pak [anton](lecturer) [habis ini](time:selanjutnya)
+- jadwal pak [gerry](lecturer) [nanti](time:selanjutnya)
+- jadwal bu [fajar](lecturer)
+- ada jadwalnya pak [muaaffaq](lecturer)
+- jadwalnya pak [sidqon](lecturer)
+- jadwal pak [agyl](lecturer)
+- jadwal pak [agung](lecturer) [hari ini](day)
+- jadwal ngajarnya pak [ardi](lecturer)
+- jadwal bu [yusrida](lecturer)
+- jadwal bu [yusrida](lecturer) [senin](day:Senin)
+- pak [anton](lecturer) hari [rabu](day:Rabu) ngajar apa
+- jadwalnya pak [aher](lecturer) [hari ini](day) apa
+- bu [rini](lecturer) [hari ini](day) ngajar apa
+- minta jadwalnya pak [agus dar](lecturer)
+- [besok](day) pak [agung](lecturer) ada jadwal nggak
+- jadwalnya pak [sugi](lecturer) dong
+- ada jadwalnya bu [fajar](lecturer) [hari ini](day)
+- kamu punya jadwalnya pak [agus hermanto](lecturer)
+- punya jadwalnya pak [gery](lecturer)
+- ada jadwalnya bu [fajar](lecturer)
+- kamu tahu jadwalnya bu [yusrida](lecturer) [hari ini](day)
+- ada nggak jadwalnya pak [sugi](lecturer) buat [besok](day)
+- eh hari [kamis](day:Kamis) pak [agus darwanto](lecturer) ada jadwal ngajar apa
+- jadwalnya bu [fajar](lecturer) [hari ini](day) apa
+- ada nggak jadwalnya pak [aris](lecturer) [hari ini](day)
+- jadwalnya pak [fir](lecturer) [hari ini](day)
+- pak [anton](lecturer) [hari ini](day) ngajar nggak
+- jadwalnya pak [agyl](lecturer)
+- minta tolong tampilkan jadwalnya pak [anang](lecturer)
+- minta tolong kasih tahu aku jadwalnya pak [andre](lecturer)
+- minta tolong tampilkan jadwalnya bu [fajar](lecturer)
+- minta tolong tampilin jadwal ngajarnya pak [gery](lecturer) dong
+- tolong tampilkan jadwalnya bu [nuril](lecturer) ya
+- minta tolong tampilin jadwal ngajarnya pak [gery](lecturer) dong
+- tolong tampilkan jadwalnya pak [andre](lecturer)
+- minta tolong kasih tahu aku kira kira pak [anton](lecturer) [hari ini](day) jadwalnya apa aja
+- kamu tahu nggak jadwalnya pak [ery](lecturer)
+- minta jadwalnya pak [agyl](lecturer) dong
+- minta tolong kamu ada jadwal hari [kamis](day:Kamis) pak [agus dar](lecturer) nggak
+- punya jadwalnya pak [sugi](lecturer)
+- pak [aidil](lecturer) ngajar apa [hari ini](day)
+- bagi dong daftar jadwal pak [anang](lecturer) buat [besok](day)
+- tampilkan jadwal pak [supangat](lecturer)
+- minta jadwal pak [agus hermanto](lecturer) hari [selasa](day:Selasa)
+- hari [senin](day:Senin) ada jadwal nggak pak [fir](lecturer)
+- hari [rabu](day:Rabu) pak [gery](lecturer) ngajar apa ya
+- pak [habib](lecturer) [sekarang](time) ngajar apa
+- kira kira bu [fajar](lecturer) ngajar [jam](time) berapa
+- ngajar [jam](time) berapa pak [gery](lecturer)
+- ngajar kapan bu [putri](lecturer)
+- [jam](time) brapa ngajarnya pak [sidqon](lecturer)
+- jadwalnya pak [gery](lecturer) ada
+- lihat jadwalnya pak [andre](lecturer) [besok](day)
+- kampu punya jadwalya pak [anton](lecturer)
+- info jadwal dosen pak [supangat](lecturer) hari [rabu](day:Rabu)
+- bu [fajar](lecturer) [nanti](time:selanjutnya) ngajar jam berapa
+- [setelah ini](time:selanjutnya) pak [anton](lecturer) ngajar apa
+- [setelah ini](time:selanjutnya) pak [anton](lecturer) jadwal ngajarnya apa
+- ada jadwal ngajarnya dosen
+- pak [sugi](lecturer) [habis ini](time:selanjutnya) ngajar apa
+- [kemarin](day) pak [anton](lecturer) jadwalnya apa aja
+- [habis ini](time:selanjutnya) bu [fajar](lecturer) ngajar apa
+- bu [nuril](lecturer) [tadi](time:sebelumnya) ngajar apa aja
+- kamu punya jadwal dosen
+- ada info jadwal dosen nggak
+- jadwalnya pak [gery](lecturer)
+- ada jadwalnya dosen
+- [habis ini](time:selanjutnya) pak [sugi](lecturer) ngajar apa
+- bu [fajar](lecturer) [nanti](time:selanjutnya) ada jadwal nggak
+- kamu ada jadwalnya pak [sugiono](lecturer)
+- [hari ini](day) bu [fajar](lecturer) ngajar apa
+- kamu punya jadwal dosen kah
+- [nanti](time:selanjutnya) pak [aris](lecturer) ngajar apa
+- kamu ada jadwal mengajar nya pak [habib](lecturer)
+- jadwal mengajarnya pak [anton](lecturer)
+- jadwal mengajar nya bu [nuril](lecturer)
+- kamu ada jadwal mengajar pak [aher](lecturer)
+- jadwal mengajarnya bu [yus](lecturer)
+- [nanti](time:selanjutnya) pak [aris](lecturer) ngajar apa
+- jadwal mengajar nya pak [anang](lecturer)
+- kamu ada jadwal mengajar nya pak [aris](lecturer)
+- [nanti](time:selanjutnya) pak [aris](lecturer) ngajar apa
+- kamu tahu nggak jadwalnya pak [erry](lecturer)
+- pak [aidil](lecturer) [sekarang](time) ngajar apa
+- kelasnya pak [agyl](lecturer) [sekarang](time) apa
+- [saat ini](time:sekarang) pak [anton](lecturer) ngajar apa
+- bu [fajar](lecturer) [saat ini](time:sekarang) sedang mengajar apa
+- pak [habib](lecturer) [sekarang](time) ngajar apa
+- info jadwal kuliah pak [gery](lecturer)
+- ada info jadwal mengajarnya bu [rini](lecturer)
+- punya info jadwal bu [fajar](lecturer)
+- [sekarang](time) [sugiono](lecturer) ada kelas jam berapa
+- pak [sugiono](lecturer) [sekarang](time) kelas jam berapa
+- ada kelas jam berapa pak [sugiono](lecturer) [sekarang](time)
+- jadwal ngajar pak [anton](lecturer) [sekarang](time)
+- bu [nuril](lecturer) [sekarang](time) ngajar apa
+- bu [nuril](lecturer) [sekarang](time) mengajar apa
+- kamu tahu nggak jadwalnya pak [erry](lecturer)
+- kamu tahu nggak jadwalnya pak [eri](lecturer)
+- ngajar [jam](time) berapa pak [gerry](lecturer)
+- kamu tahu nggak jadwalnya pak [erry](lecturer)
+
+## intent:lecturer_whatsapp_number
+- wa-nya bu [nuril](lecturer)
+- carikan nomor teleponnya pak [bagus](lecturer)
+- whatsApp nya bu [fajar](lecturer)
+- nomor teleponnya pak [anton](lecturer) ada
+- info nomer whatsapp pak [sugiono](lecturer) dong
+- info nomer wa pak [aris](lecturer) dong
+- saya butuh nomer wa bu [fajar](lecturer)
+- saya butuh nomer whatsapp pak [elsen](lecturer)
+- ada nomer wa bu [nuril](lecturer)
+- ada nomer wa pak [fridi](lecturer)
+- nomer wa pak [muafak](lecturer)
+- nomer whatsapp bu [anis](lecturer)
+- nomer wa pak [agus hermanto](lecturer)
+- punya nomer wa pak [agung](lecturer)
+- punya nomer wa bu [yusrida](lecturer)
+- saya butuh nomer wa pak [agil](lecturer)
+- nomer wa pak [sugiono](lecturer)
+- nomer wa pak [agil](lecturer)
+- saya butuh nomer wa pak [sugiono](lecturer)
+- nomer wa pak [agus](lecturer) ada
+- nomer wa pak [sugiono](lecturer)
+- nomer wa ada
+- ada nomer WAnya
+- ada nomer wa pak [aris](lecturer) ga
+- nomer wanya ada
+- nomer wa pak [agus](lecturer)
+- ada nomer wanya pak [elsen](lecturer) ga
+- nomer wa pak [agung](lecturer)
+- nomer wanya brapa
+- nomer wa bu [anis](lecturer)
+- nomer wa pak [bagus](lecturer)
+- nomer wa pak [aidil](lecturer)
+- ada nomer whatsapp bu [luvia](lecturer)
+- saya mencari nomer whatsapp pak [firdaus](lecturer)
+- ada info kontak wa pak [agil](lecturer)
+- ada kontak wanya pak [sugiono](lecturer)
+- saya mencari kontak wa pak [agung](lecturer)
+- ada info kontak wa pak [bagus](lecturer)
+- ada kontak wanya pak [elsen ronando](lecturer)
+- saya mencari kontak wa bu [nuril](lecturer)
+- ada kontak wa pak [sugiono](lecturer)
+- ada kontak wanya pak [fridi](lecturer)
+- saya lagi cari nomor WAnya pak [anton](lecturer)
+- nomor WAnya pak [anton](lecturer)
+- nomor Whatsapp-nya bu [luvia](lecturer)
+- ada nomor WAnya
+- ada kontak Wanya
+- ada nomer WAnya
+- nomer WAnya
+- ada nomernya bu [nuril](lecturer)
+- ada nomer WAnya
+- nomor whatsappnya pak [supangat](lecturer)
+- WAnya bu [nuril](lecturer)
+- whatsappnya pak [gery](lecturer)
+- mau tanya WAnya dosen
+- ada WAnya bu [fajar](lecturer)
+- minta nomor WAnya pak [aris](lecturer)
+- minta nomor whatsapp-nya bu [rini](lecturer)
+- nomor WA pak [agus darwanto](lecturer)
+- minta nomornya bu [putri](lecturer)
+- nomor wa pak [aidil](lecturer)
+- kalo nomor WAnya
+- nomor wanya pak [aidil](lecturer)
+- minta nomor WAnya
+- minta WAnya [bagus](lecturer)
+- WAnya pak [supangat](lecturer)
+- nomor whatsapp-nya
+- apakah anda mempunyai nomor whatsapp dosen atas nama [agung kridoyono](lecturer)
+- berapakah nomor WA pak [bagus](lecturer)
+- minta WA-nya pak [pangat](lecturer) [sekarang](time) cepet
+- WA nya beliau berapa nih
+- minta WAnya [aher](lecturer) dong
+- minta WAnya [aher](lecturer) dong
+- minta nomornya pak [agil](lecturer) dong
+- kamu punya nomornya pak [naufal](lecturer) gak
+- kamu punya nomornya pak [naufal](lecturer) ga
+- kamu ada nomornya pak [sugi](lecturer)
+- carikan nomor whatsapp-nya pak [agyl](lecturer)
+- eh carikan nomornya pak [agung](lecturer)
+- butuh nomor WA dosen atas nama [naufal](lecturer)
+- minta WAnya pak [agil](lecturer) ya
+- aku lagi nyari nomor WAnya dosen
+- kamu ada nomornya [elsen](lecturer)
+- cariin whatsappnya pak [naufal](lecturer) dong
+- kamu punya whatsappnya pak [sugiono](lecturer)
+- lagi nyari WA dosen atas nama bu [fajar](lecturer) punya ga
+- minta wanya bu [rini](lecturer)
+- minta nomor whatsapp pak [anton](lecturer)
+- nomor whatsappnya bu [rini](lecturer) ada
+- minta nomornya dosen
+- ada nomornya bu [nuril](lecturer)
+- punya nomor whatsappnya pak [agyl](lecturer)
+- punya nomor wanya bu [yusrida](lecturer)
+- ada nomor teleponnya pak [agung](lecturer)
+- minta nomornya pak [agus dar](lecturer)
+- ada nomor wanya pak [anton](lecturer)
+- nomor hpnya pak [andre](lecturer)
+- punya nomornya dosen
+- kamu ada nomornya bu [luvia](lecturer) nggak
+- ada nomor wanya nggak
+- kamu punya nomornya dosen
+- saudara bolehkan saya meminta nomornya bu [yus](lecturer)
+- aku minta nomornya pak [agyl](lecturer)
+- info kontaknya pak [andre](lecturer)
+- kamu punya nomornya pak [agung](lecturer) nggak
+- ada kontaknya pak [firdaus](lecturer)
+- kamu punya kontaknya nggak
+- kontaknya pak [sugi](lecturer)
+- aku sedang mencari nomor wa nya pak [supangat](lecturer) kamu ada nggak
+- ada nomornya pak [gery](lecturer)
+- pak [anton](lecturer) nomor WA berapa
+- bapak [sugi](lecturer) nomornya berapa
+- nomornya pak [andre](lecturer)
+- wa-nya pak [pangat](lecturer)
+- teleponnya pak [agyl](lecturer)
+- nomor hp-nya bu [nuril](lecturer)
+- iva kamu punya nomor hp nya pak [agung](lecturer) nggak
+- berapa WA nya bu [luv](lecturer:luvia)
+- wanya pak [anton](lecturer) ada
+- nomornya pak [aris](lecturer) ada
+- punya wanya pak [aidil](lecturer)
+- minta kontak wanya pak [fridi](lecturer)
+- nomornya bu [fajar](lecturer)
+- wa nya berapa pak [agus hermanto](lecturer)
+- lihat nomornya pak [ery](lecturer)
+- kamu punya whatsapp nya pak [agyl](lecturer)
+- ada whatsapp nya pak [ardi](lecturer)
+- nomor wa pak [agyl](lecturer) punya
+- ada nomor teleponnya pak [supangat](lecturer)
+- ada info kontaknya pak [anang](lecturer)
+- punya nomornya
+- wa-nya bu [nuril](lecturer)
+- carikan nomor teleponnya pak [bagus](lecturer)
+- whatsApp nya bu [fajar](lecturer)
+- nomor teleponnya pak [anton](lecturer) ada
+- minta nomornya pak [bagus](lecturer)
+
+## intent:practicum_schedule
+- praktikum [androidku](practicum:Pengembangan Teknologi Mobile) kapan ya
+- praktikum [java](practicum:Pemrograman Lanjut) kapan
+- praktikum [pbo](practicum:Pemrograman Lanjut) semester ini kapan [14 61 600 044](nbi)
+- jadwalku praktikum [pemrograman lanjut](practicum) kapan
+- hari apa aku praktikum [mandatin](practicum:Manajemen Data dan Informasi) [146 1600054](nbi)
+- hari apa aku praktikum [database](practicum:Manajemen Data dan Informasi)
+- hari apa praktikum [basis data](practicum:Manajemen Data dan Informasi) ya
+- hari apa praktikum [manajemen data](practicum:Manajemen Data dan Informasi)
+- praktikum [proglan](practicum:Pemrograman Lanjut) kapan
+- praktikum [proklan](practicum:Pemrograman Lanjut) kapan aku lupa soalnya
+- jadwal praktikum [web](practicum:Pengembangan Teknologi Website) kapan ya [1461600099](nbi)
+- jadwal praktikum [website](practicum:Pengembangan Teknologi Website) kapan ya
+- jadwal praktikum [PTW](practicum:Pengembangan Teknologi Website) kapan ya [1461600034](nbi)
+- jadwal praktikum [Pengembangan Teknologi Website](practicum) kapan ya
+- praktikum [java](practicum:Pemrograman Lanjut) hari apa
+- tampilkan jadwal praktikum [SO](practicum:Sistem Operasi) saya
+- tampilkan jadwal praktikum [Sistem Operasi](practicum)
+- kapan ya kira kira praktikum [mobile](practicum:Pengembangan Teknologi Mobile)
+- kapan ya praktikum [android](practicum:Pengembangan Teknologi Mobile) [146 1 6 0 0 044](nbi)
+- kapan ya jadwal praktikum [PTM](practicum:Pengembangan Teknologi Mobile)
+- kapan ya praktikum [Pengembangan Teknologi Mobile](practicum) [14 6160 0124](nbi)
+- eh kamu tau jadwal praktikum [PCD](practicum:Pengolahan Citra Digital)
+- eh kamu tau jadwal praktikum [citra digital](practicum:Pengolahan Citra Digital)
+- eh kamu tau jadwal praktikum [Mikroprosessor](practicum)
+- jadwalnya praktikum [sisdig](practicum:Sistem Digital) pelaksanaannya kapan [1461700077](nbi)
+- jadwalnya praktikum [mikro](practicum:Mikroprosessor) pelaksanaannya kapan
+- kira kira praktikum [sistik](practicum:Sistem Digital) pelaksanaannya kapan
+- kira kira praktikum [Sistem Digital](practicum) pelaksanaannya kapan
+- kira kira praktikum [rl](practicum:Rangkaian Logika) pelaksanaannya kapan
+- aku lupa jadwal praktikum [komgraf](practicum:Komputer Grafik dan Visualisasi Data)
+- aku lupa jadwal praktikum [Komputer Grafik dan Visualisasi Data](practicum)
+- minta jadwal praktikum [prodas](practicum:Pemrograman Dasar)
+- ada jadwal praktikum [Pemrograman Dasar](practicum)
+- minta jadwal praktikum [jarkom](practicum:Sistem Jaringan Komputer)
+- punya jadwal praktikum [jaringan komputer](practicum:Sistem Jaringan Komputer)
+- tampilkan seluruh jadwal praktikum saya nbi [1461601244](nbi)
+- tampilkan seluruh jadwal praktikumku
+- tampilkan seluruh jadwal saya praktikum [1461 50 0044](nbi)
+- tampilkan semua jadwal praktikum semester ini
+- tampilkan semua jadwal praktikum semester sekarang
+- aku lupa jadwal praktikumku kira kira hari apa aja ya
+- jadwal jadwal praktikum semester ini
+- jadwal jadwal praktikum nbi [1461900124](nbi)
+- jadwal praktikumku
+- praktikum [sistem digital](practicum:Sistem Digital) ku kapan
+- jadwal praktikumku nbi [1451600044](nbi)
+- jadwal praktikum [ptm](practicum:Pengembangan Teknologi Mobile)
+- jadwal praktikumku [java](practicum:Pemrograman Lanjut)
+- jadwal praktikum [so](practicum:Sistem Operasi)
+- praktikum [web](practicum:Pengembangan Teknologi Website) kapan
+- jadwal praktikum [1461600444](nbi)
+- jadwal praktikum [sistem digital](practicum:Sistem Digital)
+- jadwal praktikum [hari ini](day) [1461800044](nbi)
+- jadwal praktikum [hari ini](day)
+- jadwal prkatikum [pbo](practicum:Pemrograman Lanjut)
+- jadwal praktikum [web](practicum:Pengembangan Teknologi Website)
+- jadwal praktikum [mobile](practicum:Pengembangan Teknologi Mobile) ku berapa
+- jadwal praktikum [java](practicum:Pemrograman Lanjut)
+- eh jadwal praktikum minggu ini
+- praktikum minggu ini apa aja ya
+- eh jadwal praktikumku udah keluar belum
+- hari apa aja aku praktikumnya [1461800084](nbi)
+- jadwal praktikum [sekarang](time) udah keluar belum
+- praktikum [web](practicum:Pengembangan Teknologi Website) jadwalnya kapan
+- ada jadwal praktikum nggak
+- jadwalnya sudah keluar belum untuk praktikum [website](practicum:Pengembangan Teknologi Website) nya
+- praktikum [daskom](practicum:Dasar Komputer dan Internet) kapan
+- jadwalnya praktikum [so](practicum:Sistem Operasi) [1461600094](nbi)
+- jadwalnya praktikum [mobile](practicum:Pengembangan Teknologi Mobile)
+- praktikum [daskom](practicum:Dasar Komputer dan Internet) jadwalnya kapan
+- minta jadwal praktikum
+- punya jadwal praktikum punya ku [1461600054](nbi)
+- hari apa aku praktikum
+- info jadwal praktikum [web](practicum:Pengembangan Teknologi Website)
+- ada jadwalnya prakitkum [mandatin](practicum:Manajemen Data dan Informasi)
+- jadwal praktikum [pbo](practicum:Pemrograman Lanjut)
+- tampilkan jadwal praktikum [1431600044](nbi)
+- kapan nih praktikum [web](practicum:Pengembangan Teknologi Website) ku
+- jadwal praktikum
+- praktikum [pengembangan mobile](practicum:Pengembangan Teknologi Mobile) hari apa
+- praktikum [java](practicum:Pemrograman Lanjut) kapan
+- jadwal praktikum [teknologi website](practicum:Pengembangan Teknologi Website)
+- [hari ini](day) ada praktikum nggak [1461600074](nbi)
+- praktikum minggu ini apa aja ya
+- jadwal praktikumku [nanti](time:selanjutnya) apa
+- jadwal praktikum [rangkaian logika](practicum:Rangkaian Logika)
+- [habis ini](time:selanjutnya) praktikum apa
+- praktikum [androidku](practicum:Pengembangan Teknologi Mobile) kapan ya
+- info jadwal praktikum
+- praktikum [sistem digital](practicum:Sistem Digital) aku kapan
+
+## intent:practicum_value
+- kalau nilai praktikum [dasar pemrograman](practicum:Pemrograman Dasar) berapa [146 160 00 44](nbi)
+- nilai praktikum [pbo](practicum:Pemrograman Lanjut) nbi [1461600014](nbi)
+- nilai praktikum [java](practicum:Pemrograman Lanjut)
+- nilai praktikum [web](practicum:Pengembangan Teknologi Website)
+- nilai praktikum [PTM](practicum:Pengembangan Teknologi Mobile)
+- eh nilai praktikum [pemrograman lanjut](practicum)
+- berapa nilai praktikum [pemrograman dasar](practicum) [1461600149](nbi)
+- nilai praktikum [proglan](practicum:Pemrograman Lanjut)
+- nilai praktikum [prodas](practicum:Pemrograman Dasar) [1421600044](nbi)
+- kamu tahu nilai praktikum [rl](practicum:Rangkaian Logika)
+- nilai praktikum [rangkaian logika](practicum)
+- sudah keluar belum nilai praktikum [pcd](practicum:Pengolahan Citra Digital)
+- nilai praktikum [android](practicum:Pengembangan Teknologi Mobile)
+- nilai praktikum [mandatin](practicum:Manajemen Data dan Informasi)
+- nilai praktikum [java](practicum:Pemrograman Lanjut) berapa nbi [1461600124](nbi)
+- praktikum [prodas](practicum:Pemrograman Dasar) nilainya berapa
+- info nilai praktikum [1461600114](nbi)
+- nilai praktikum
+- nilai praktikumku berapa ya
+- nilai praktikum ku berapa ya
+- daftar nilai praktikum
+- tampilkan nilai praktikum
+- tampilkan semua nilai praktikum
+- berapa ya nilai praktikum [web](practicum:Pengembangan Teknologi Website)
+- saya pengen tahu nilai praktikum [manajemen data](practicum:Manajemen Data dan Informasi)
+- saya pengen tahu nilai praktikum [mandatin](practicum:Manajemen Data dan Informasi)
+- nilainya praktikum [daskom](practicum:Dasar Komputer dan Internet) sudah keluar belum
+- nilainya praktikum [dasar komputer](practicum:Dasar Komputer dan Internet) sudah keluar belum
+- nilainya praktikum [sistem operasi](practicum) sudah keluar belum nbi [1461800224](nbi)
+- info nilai praktikum [SO](practicum:Sistem Operasi)
+- nilai praktikum [c plus plus](practicum:Pemrograman Dasar) ku berapa
+- nilai praktikum [mobile](practicum:Pengembangan Teknologi Mobile) ku berapa
+- praktikum [pemrograman dasar](practicum) nilainya berapa nbi [1461600249](nbi)
+- praktikum [jarkom](practicum:Sistem Jaringan Komputer) nilainya berapa
+- praktikum [jaringan komputer](practicum:Sistem Jaringan Komputer) nilainya berapa
+- cek nilai praktikum [java](practicum:Pemrograman Lanjut)
+- nilai praktikum nbi [1461600212](nbi)
+- praktikum [sisdig](practicum:Sistem Digital) nilainya berapa
+- praktikum [sistik](practicum:Sistem Digital) nilainya berapa
+- cek nilai praktikum [pbo](practicum:Pemrograman Lanjut)
+- nilai prakitkum [PTM](practicum:Pengembangan Teknologi Mobile) ku brapa
+- nilai prakitkum [komgraf](practicum:Komputer Grafik dan Visualisasi Data) ku brapa
+- nilai prakitkum [pcd](practicum:Pengolahan Citra Digital) ku brapa
+- nilai praktikum [web](practicum:Pengembangan Teknologi Website) berapa
+- nilai praktikum [java](practicum:Pemrograman Lanjut) brapa
+- nilai praktikum [jarkom](practicum:Sistem Jaringan Komputer)
+- nilai praktikum [java](practicum:Pemrograman Lanjut) ku berapa
+- berapa nilai [pemrograman dasar](practicum) ku [1 461 600 0 44](nbi)
+- nilai praktikum [jarkom](practicum:Sistem Jaringan Komputer) ku berapa
+- nilai praktikum [sistem digital](practicum:Sistem Digital) berapa
+- nilai praktikum [java](practicum:Pemrograman Lanjut) udah keluar belum [146 16 0044](nbi)
+- praktikum [sistem digital](practicum:Sistem Digital) ku niainya berapa ya
+- nilai praktikum
+- nilai praktikum [komgraf](practicum:Komputer Grafik dan Visualisasi Data) sudah keluar belum
+- nilai praktikum [javaku](practicum:Pemrograman Lanjut) brapa [1 4616 0 004 4](nbi)
+- nilai praktikum [javaqu](practicum:Pemrograman Lanjut) berapa
+- nilaiku praktikum [web](practicum:Pengembangan Teknologi Website) berapa nih
+- berapa nilai praktikum [so](practicum:Sistem Operasi) ku ya
+- nilai praktikum [progdasku](practicum:Pemrograman Dasar) brapa nih
+- nilai praktikumnya [sistem digital](practicum:Sistem Digital)
+- tunjukan nilai praktikum [java](practicum:Pemrograman Lanjut)
+- berapa ya nilai praktikum [javaku](practicum:Pemrograman Lanjut) [146 1900067](nbi)
+- udah keluar belum ya nilai praktikum [sistem operasi](practicum)
+- eh nilai praktikum [komgrafku](practicum:Komputer Grafik dan Visualisasi Data) berapa ya
+- saya ingin lihat praktikum
+- lihat nilai praktikum
+- nilai praktikum [komgraf](practicum:Komputer Grafik dan Visualisasi Data) sudah keluar ta
+- sudah keluar apa belum nilai praktikum [pemrograman dasar](practicum)
+- nilai praktikum [web](practicum:Pengembangan Teknologi Website) sudah keluar apa belum bos
+- praktikum [komputer jaringan](practicum:Sistem Jaringan Komputer) nilainya berapa
+- ada nilai praktikum ku semua
+- berapa nilai praktikum [sistem digital](practicum:Sistem Digital) ku sekarang
+- nilai [daskom](practicum:Dasar Komputer dan Internet) berapa
+- nilai praktikum [komgraf](practicum:Komputer Grafik dan Visualisasi Data)
+- berapa nilai praktikum [android](practicum:Pengembangan Teknologi Mobile)
+- ada nilai praktikum [mandatin](practicum:Manajemen Data dan Informasi)
+- nilanya berapa praktikum [sistem linux](practicum:Sistem Operasi)
+- nilai praktikumku berapa
+- lihat nilai praktikum
+- lihat nilai praktikum [citra](practicum:Pengolahan Citra Digital)
+- boleh lihat nilai praktikum [android](practicum:Pengembangan Teknologi Mobile)
+- praktikum [teknologi website](practicum:Pengembangan Teknologi Website) nilainya berapa
+- praktikum [c plus plus](practicum:Pemrograman Dasar) nilainya berapa
+- kalo nilainya prakikum [daspro](practicum:Pemrograman Dasar) berapa
+- berapa nilai praktikum [mikro](practicum:Mikroprosessor)
+- praktikum [komputer grafik](practicum:Komputer Grafik dan Visualisasi Data) berapa nilaiku
+- berapa nilai praktikum [rangkaian logika](practicum:Rangkaian Logika)
+- nilai praktikum [jarkom](practicum:Sistem Jaringan Komputer)
+- nilainya berapa buat praktikum [RL](practicum:Rangkaian Logika) [146 1600 024](nbi)
+- berapa nilai praktikum [pemrograman lanjut](practicum) ku
+- berapakah nilai praktikum [pemrograman lanjut](practicum) saya
+- eh nilainya sudah keluar belum praktikum [java](practicum:Pemrograman Lanjut)
+- berapa nilai praktikum [so](practicum:Sistem Operasi)
+- berapa nilai praktikum [web](practicum:Pengembangan Teknologi Website) ku
+- ada info nilai praktikum [java](practicum:Pemrograman Lanjut)
+- kalau nilai [komputer grafik](practicum:Komputer Grafik dan Visualisasi Data) sudah keluar apa belum
+- kalau nilai praktikum [dasar pemrograman](practicum:Pemrograman Dasar) berapa
+- nilai praktikum [website](practicum:Pengembangan Teknologi Website) [kemarin](day) sudah keluar apa belum
+
+## intent:procedure
+- yaapa caranya daftar [TKP](type)
+- cara [daftar magang](type:pendaftaran kerja praktek) gimana
+- gimana cara [daftar magang](type:pendaftaran kerja praktek)
+- bagaimana cara [daftar magang](type:pendaftaran kerja praktek)
+- prosedur [pendaftaran magang](type:pendaftaran kerja praktek)
+- info prosedur [pendaftaran magang](type:pendaftaran kerja praktek)
+- prosedur [pendaftaran magang](type:pendaftaran kerja praktek)
+- prosedur [pendaftaran kerja praktek](type)
+- cara [mendaftar kerja praktek](type:pendaftaran kerja praktek)
+- bagaimana cara [daftar kerja praktek](type:pendaftaran kerja praktek)
+- prosedur [pendaftaran kp](type:pendaftaran kerja praktek)
+- info prosedur [pendaftaran kp](type:pendaftaran kerja praktek)
+- cara [daftar kp](type:pendaftaran kerja praktek)
+- prosedurnya gimana untuk [pendaftaran magang](type:pendaftaran kerja praktek)
+- untuk [pendaftaran praktikumnya](type:pendaftaran praktikum) bagaimana
+- cara [daftar magang](type:pendaftaran kerja praktek) gimana
+- cara [daftar magang](type:pendaftaran kerja praktek)
+- prosedur [pendaftaran kp](type:pendaftaran kerja praktek)
+- prosedur [mendaftar kp](type:pendaftaran kerja praktek)
+- mau [daftar kp](type:pendaftaran kerja praktek) gimana caranya
+- ini aku mau [daftar kp](type:pendaftaran kerja praktek) caranya gimana
+- mau [daftar kp](type:pendaftaran kerja praktek) caranya yaapa
+- caranya [daftar kerja praktek](type:pendaftaran kerja praktek)
+- kamu tahu caranya [daftar kerja praktek](type:pendaftaran kerja praktek) itu gimana
+- cara [daftar praktikum](type:pendaftaran praktikum)
+- gimana langkah langkah [pendaftaran praktikum](type)
+- prosedur [pendaftaran praktikum](type)
+- bagaimana cara [daftar praktkum](type:pendaftaran praktikum) ya
+- cara [mendaftar praktikum](type:pendaftaran praktikum) gimana
+- proses [pendaftaran praktikum](type)
+- langkah langkah [pendaftaran praktikum](type)
+- cara [daftar praktikum](type:pendaftaran praktikum) gimana
+- cara [daftar praktikum](type:pendaftaran praktikum) gimana ya
+- bagaimana cara [daftar praktikum](type:pendaftaran praktikum)
+- cara [daftar praktikum](type:pendaftaran praktikum)
+- mau [daftar praktikum](type:pendaftaran praktikum) caranya yaapa
+- caranya [daftar praktikum](type:pendaftaran praktikum)
+- kamu tahu caranya [daftar praktikum](type:pendaftaran praktikum) nggak
+- kasih tahu cara [daftar praktikum](type:pendaftaran praktikum) dong
+- btw aku mau [daftar praktikum](type:pendaftaran praktikum) tapi caranya yaapa
+- saya ingin tahu caranya [daftar praktikum](type:pendaftaran praktikum) di sini
+- aku mau [daftar praktikum](type:pendaftaran praktikum)
+- cara biar aku [terdaftar di praktikum](type:pendaftaran praktikum)
+- caranya [daftar praktikum](type:pendaftaran praktikum) gimana ya
+- he cara [daftar praktikum](type:pendaftaran praktikum) yaapa
+- langkah langkah [daftar praktikum](type:pendaftaran praktikum) yaapa
+- aku masih baru di sini kira kira cara [daftar praktikum](type:pendaftaran praktikum) gimana ya
+- cara [daftar praktikum](type:pendaftaran praktikum) di teknik informatika
+- cara [daftar praktikum](type:pendaftaran praktikum) di teknik informatika
+- minta tata cara [daftar praktikum](type:pendaftaran praktikum)
+- gimana ya caranya [daftar praktikum](type:pendaftaran praktikum) [pbo](practicum:Pemrograman Lanjut)
+- langkah langkah [daftar praktikum](type:pendaftaran praktikum) gimana ya
+- cara [daftar magang](type:pendaftaran kerja praktek)
+- caranya [daftar magang](type:pendaftaran kerja praktek) gimana
+- kalo mau [daftar praktikum](type:pendaftaran praktikum) yaapa
+- kalo [daftar magang](type:pendaftaran kerja praktek) gimana
+- ini aku mau [daftar kerja praktek](type:pendaftaran kerja praktek) caranya yaapa
+- prosedur [pendaftaran praktikum](type)
+- bagaimana cara [daftar praktikum](type:pendaftaran praktikum)
+- tata cara [daftar magang](type:pendaftaran kerja praktek)
+- caranya [daftar praktikum](type:pendaftaran praktikum)
+- prosedur untuk [mendaftarkan diri](type:pendaftaran praktikum) ke dalam aktivitas [praktikum](type:pendaftaran praktikum)
+- gimana ya caranya [daftar kp](type:pendaftaran kerja praktek)
+- aduh aku mau [kerja praktek](type) nih gimana caranya
+- mau [daftar magang](type:pendaftaran kerja praktek) caranya gimana nih
+- gimana ya caranya [daftar praktikum](type:pendaftaran praktikum)
+- aduh aku mau [kerja praktek](type) nih gimana caranya ya
+- cara [daftar praktikum](type:pendaftaran praktikum)
+- ini aku mau [daftar praktikum](type:pendaftaran praktikum) yaapa
+- prosedur [pendaftaran tkp](type)
+- caranya [daftar tkp](type:pendaftaran tkp) gimana ya
+- kamu tahu prosedur [pendaftaran kp](type:pendaftaran kerja praktek) nggak
+- gimana caranya [daftar praktikum](type:pendaftaran praktikum)
+- caranya [daftar magang](type:pendaftaran kerja praktek) yaapa
+- daftarnya [kerja praktek](type) gimana
+- gimana caranya [daftar kerja praktek](type:pendaftaran kerja praktek) itu
+- gimana [pendaftaran tkp](type)
+- caranya [daftar seminar proposal](type:pendaftaran tkp) yaapa
+- bagaimana cara [daftar sempro](type:pendaftaran tkp)
+- kalo [pendaftaran kp](type:pendaftaran kerja praktek) yaapa
+- ini cara [daftar tkp](type:pendaftaran tkp) yaapa
+- caranya yaapa kalau mau [daftar tkp](type:pendaftaran tkp)
+- bagaimana ya caranya [daftar tkp](type:pendaftaran tkp) itu
+- cara [daftar tkp](type:pendaftaran tkp)
+- mau [daftar praktikum](type:pendaftaran praktikum) caranya yaapa ya
+- langkah langkah untuk [pendaftaran kp](type:pendaftaran kerja praktek)
+- bagaimana caranya [daftar tkp](type:pendaftaran tkp) itu
+- jadwal untuk praktikum [jaringan komputer](practicum:Sistem Jaringan Komputer)
+- yaapa caranya [daftar tkp](type:pendaftaran tkp)
+- min aku mau [daftar magang](type:pendaftaran kerja praktek) ini gimana caranya
+- cara [daftar magang](type:pendaftaran kerja praktek) yaapa
+- prosedur [pendaftaran praktikum](type)
+- caranya gimana kalau mau [daftar tkp](type:pendaftaran tkp)
+- langkah langkah kalau mau [daftar praktikum](type:pendaftaran praktikum)
+- gimana bos kalau mau [daftar sempro](type:pendaftaran tkp) caranya
+- bagaimana ya [pendaftaran magang](type:pendaftaran kerja praktek) itu
+- kamu tahu caranya [daftar seminar proposal](type:pendaftaran tkp) itu gimana
+- ini gimana ya caranya [mendaftar tkp](type:pendaftaran tkp)
+- bagaimana kah cara [pendaftaran kerja praktek](type) itu
+- tahu prosedurnya [pendaftaran magang](type:pendaftaran kerja praktek)
+- ada prosedur [pendaftaran kp](type:pendaftaran kerja praktek)
+- caranya [daftar seminar proposal](type:pendaftaran tkp) gimana iva
+- yaapa nih caranya [daftar kp](type:pendaftaran kerja praktek)
+- prosedur [daftar praktikum](type:pendaftaran praktikum)
+- gimana sis caranya [daftar topik khusus penelitian](type:pendaftaran tkp)
+- caranya [daftar tkp](type:pendaftaran tkp) yaapa
+- cara [daftar tkp](type:pendaftaran tkp) bagaimana
+- kamu tahu nggak caranya [daftar praktikum](type:pendaftaran praktikum) itu gimana
+- bagaimana cara [daftar magang](type:pendaftaran kerja praktek) denger denger bayar ya
+- yaapa caranya [daftar TKP](type:pendaftaran tkp)
+- caranya [daftar tugas akhir](type:pendaftaran tugas akhir) gimana
+- prosedur [pendaftaran ta](type:pendaftaran tugas akhir)
+- caranya [daftar tea](type:pendaftaran tugas akhir) gimana
+- ya apa caranya [daftar TKP](type:pendaftaran tkp)
+
+## intent:registration_schedule
+- kira-kira kapan [praktikum](type) [web](practicum:Pengembangan Teknologi Website) dibuka
+- [sempro](type:tkp) itu pendaftarannya kapan dibuka
+- kapan pendaftaran [magang](type:kerja praktek) dibuka
+- pendaftaran [sempro](type:tkp) kapan
+- info jadwal pendaftaran [magang](type:kerja praktek)
+- kira kira kapan pendaftaran [magang](type:kerja praktek) dimulai
+- kapan ya pendaftaran [magang](type:kerja praktek) dibuka
+- kira kira pendaftaran [kerja praktek](type) kapan
+- info jadwal pendaftaran [kp](type:kerja praktek)
+- kapan pendaftaran [kp](type:kerja praktek)
+- jadwal pendaftaran [kp](type:kerja praktek)
+- pendaftaran [magang](type:kerja praktek) kapan
+- pendaftaran [kp](type:kerja praktek) dibuka kapan
+- pendaftaran [tkp](type) kapan
+- pendaftaran [topik khusus penelitian](type:tkp) kapan dibuka
+- pendaftaran [sempro](type:tkp) nya kapan
+- daftar [magang](type:kerja praktek) nya kapan
+- kamu tahu pendaftaran [magangnya](type:kerja praktek) kapan
+- kapan ya pendaftaran [praktikum](type) [komgraf](practicum:Komputer Grafik dan Visualisasi Data) dibuka
+- pendaftaran [praktikum](type) [pemrograman lanjut](practicum) kapan
+- kira kira kapan [praktikum](type) [web](practicum) dibuka
+- info jadwal pendaftaran [praktikum](type) [rangkaian logika](practicum)
+- pendaftaran [praktikum](type) [mobile](practicum) kapan dibuka
+- kira kira kapan praktikum [java](practicum) dibuka
+- info jadwal pendaftaran [praktikum](type) [rl](practicum)
+- [rangkaian logika](practicum) kapan dibuka ya
+- praktikum [web](practicum) kapan dibuka
+- praktikum [pbo](practicum) dibuka kapan
+- pendaftaran [praktikum](type) [pbo](practicum) dibuka kapan
+- jadwal pendaftaran [praktikum](type) [pemrograman web](practicum:Pengembangan Teknologi Website) kapan
+- pendaftaran [praktikum](type) [java](practicum) dibuka kapan
+- praktikum [sistem operasi](practicum) dibuka kapan ya
+- praktikum [Sonya](practicum:Sistem Operasi) dibuka kapan ya
+- pendaftaran [praktikum](type) [pbo](practicum) kapan
+- [praktikumnya](type:praktikum) dibuka kapan pendaftarannya
+- daftar [praktikum](type) [pemrograman lanjut](practicum) kapan
+- eh pendaftaran [praktikum](type) [PTM](practicum) dibuka kapan
+- pendaftaran [magang](type:kerja praktek) kapan
+- jadwal pendaftaran untuk [kerja praktek](type) kapan
+- pendaftaran [praktikum](type) [Pengolahan Citra Digital](practicum) kapan
+- jadwal pendaftaran untuk [kerja praktek](type) kapan ya dibuka
+- pendaftarannya [praktikum](type) [pbo](practicum:Pemrograman Lanjut) kapan
+- dibuka kapan pendaftaran [magang](type:kerja praktek)
+- pendaftaran untuk [kerja pratek](type) dibuka tanggal berapa
+- jadwal pendaftaran [praktikum](type) [java](practicum:Pemrograman Lanjut)
+- aku mau daftar [magang](type:kerja praktek) kapan ya
+- kapan ya pendaftaran [praktikum](type) [androidnya](practicum:Pengembangan Teknologi Mobile) dibuka
+- aku mau daftar [seminar proposal](type:tkp) nih kapan ya
+- aku mau daftar [magang](type:kerja praktek) kapan ya
+- aku mau daftar [kerja praktek](type) nih kapan ya
+- kapan ya pendaftaran [magang](type:kerja praktek)
+- aku mau [daftar praktikum](type:pendaftaran praktikum) [java](practicum:Pemrograman Lanjut) itu kapan pendaftarannya dibuka
+- kamu tahu pendaftaran [kerja praktek](type) kapan
+- kamu tahu jadwal [daftar praktikum](type:pendaftaran praktikum) [java](practicum:Pemrograman Lanjut) dibuka kapan
+- pendaftaran [praktikum](type:pendaftaran praktikum) [webnya](practicum:Pengembangan Teknologi Website) ini kapan ya
+- kalau pendafataran [kerja prakteknya](type:kerja praktek) kapan
+- kapan dibuka jadwal pendaftaran [praktikum](type:pendaftaran praktikum) [pbo](practicum:Pemrograman Lanjut)
+- kapan dibuka praktikum [pcd](practicum:Pengolahan Citra Digital)
+- mau [daftar tkp](type:pendaftaran tkp) kira kira kapan dibuka
+- pendaftaran [tkp](type) nya kapan
+- kapan [praktikum](type) [sistem digital](practicum:Sistem Digital) dibuka
+- pendaftarannya kapan [tkp](type)
+- aku mau daftar [tkp](type) nya kapan ya dibuka
+- kapan daftar [tkp](type) nya dibuka
+- pendaftarannya kapan buat [magang](type:kerja praktek)
+- kapan [tkp](type) dibuka
+- dibuka kapan praktikum [daskom](practicum:Dasar Komputer dan Internet)
+- pendaftaran [praktikum](type) [komputer grafik](practicum:Komputer Grafik dan Visualisasi Data) kapan dibuka
+- kapan pendaftaran [sempro](type:tkp)
+- pendaftaran [praktikum](type:pendaftaran praktikum) [android](practicum:Pengembangan Teknologi Mobile) kapan
+- dibuka kapan ya pendaftaran [kp](type:kerja praktek)
+- pendaftaran [sempronya](type:tkp) dibuka sampai kapan
+- untuk [kp](type:kerja praktek) pendaftarannya dibuka sampai kapan
+- kira kira kapan pendaftaran [tkp](type) dibuka
+- info jadwal pendaftaran [magang](type:kerja praktek)
+- kapan dibuka pendaftaran [praktikum](type:pendaftaran praktikum) [proglan](practicum:Pemrograman Lanjut)
+- eh kamu ada info praktikum [web](practicum:Pengembangan Teknologi Website) dibuka kapan pendaftarannya
+- kapan pendaftaran [seminar proposal](type:tkp)
+- kapan pendaftaran [tkp](type) dibuka
+- jadwal pendaftaran [magang](type:kerja praktek)
+- tanggal berapa pendaftaran [praktikum](type:pendaftaran praktikum) [komgraf](practicum:Komputer Grafik dan Visualisasi Data) dibuka
+- sampai kapan [praktikum](type) [sistem digital](practicum:Sistem Digital) dibuka
+- kapan pendaftaran [kerja praktek](type) dibukanya
+- ada info pendaftaran [sempro](type:tkp) dibuka sampai kapan
+- pendaftarannya [magang](type:kerja praktek) kapan dibuka
+- [praktikum](type) [website](practicum:Pengembangan Teknologi Website) pendaftarannya kapan dibuka ya
+- kamu tahu pendaftaran [praktikum](type:pendaftaran praktikum) [web](practicum:Pengembangan Teknologi Website) kapan ya
+- kapan pendaftaran [magang](type:kerja praktek) dibuka
+- jadwal pendaftaran [KP](type:kerja praktek)
+- kira-kira kapan [praktikum](type:pendaftaran praktikum) [web](practicum:Pengembangan Teknologi Website) dibuka
+- [sempro](type:tkp) itu pendaftarannya kapan dibuka
+- kapan pendaftaran [tugas akhir](type) dibuka
+- kira-kira kapan [praktikum](type:pendaftaran praktikum) [web](practicum:Pengembangan Teknologi Website) dibuka
+- daftar [magangnya](type:kerja praktek) kapan
+
+## intent:student_schedule
+- [setelah ini](time:selanjutnya) aku ada kuliah apa nggak nbi [1461600067](nbi)
+- [besok senin](day:Senin) pelajarannya apa nbi [1461600037](nbi)
+- nbi [1461700087](nbi) [senin](day) pelajarannya apa
+- [besok selasa](day:Selasa) ada matkul apa
+- [selasa](day) ada matkul apa nbi [1461405567](nbi)
+- hari [rabu](day) matakuliahnya apa
+- matakuliah hari [kamis](day) nbi [1461600067](nbi)
+- pelajaran hari [jumat](day)
+- [senin](day) ada matkul apa
+- jadwal hari [selasa](day)
+- jadwal matakuliah hari [rabu](day)
+- jadwal matkul [kamis](day) nbi [1461600217](nbi)
+- [jumat](day) ada pelajaran apa
+- [senin](day) ada mapel apa
+- jadwal kuliah hari [senin](day) nbi [1461800067](nbi)
+- jadwal kuliah hari [jumat](day)
+- [kamis](day) ada matkul apa
+- matkul hari [rabu](day) nbi [1461503467](nbi)
+- matkul [besok kamis](day:Kamis)
+- [besok rabu](day:Rabu) ada jadwal pelajaran apa
+- [besok jumat](day:Jumat) ada matkul apa
+- [besok](day) pelajarannya apa
+- [besok](day) ada matkul apa nbi [1461600090](nbi)
+- [besok](day) matakuliahnya apa [1461900023](nbi)
+- [besok](day) ada pelajaran apa
+- matkul [besok](day) nbi [1461600087](nbi)
+- mata kuliah [besok](day)
+- pelajaran [besok](day)
+- mata pelajaran [besok](day)
+- [besok](day) jadwalnya apa
+- [besok](day) jadwalnya apa
+- matakuliah [besok](day) nbi [1461600053](nbi)
+- jadwal kuliah [besok](day)
+- [hari ini](day) ada jadwal kuliah apa saja
+- jadwal [hari ini](day) nbi [1461600167](nbi)
+- mata kuliah [hari ini](day)
+- matkul [hari ini](day)
+- pelajaran [hari ini](day)
+- mapel [hari ini](day) nbi [1421600067](nbi)
+- list jadwal kuliah [hari ini](day)
+- list mata kuliah [hari ini](day)
+- jadwal [lusa](day) nbi [1411600067](nbi)
+- mata kuliah [lusa](day)
+- matkul [lusa](day) nbi [1461600097](nbi)
+- pelajaran [lusa](day)
+- mapel [lusa](day)
+- list jadwal kuliah [lusa](day)
+- list mata kuliah [lusa](day) [146 16 000 97](nbi)
+- jadwal kuliah [besok](day)
+- jadwal [hari ini](day)
+- jadwal kuliah [besok jumat](day:Jumat) apa aja
+- [besok kamis](day:Kamis) ada jadwal ga
+- jadwalku [hari ini](day)
+- aku lupa jadwal [besok](day) kira kira [besok](day) matkulnya ada apa aja
+- aku lupa jadwal matkul [besok](day) kira kira matkulnya buat [besok](day) ada apa aja
+- jadwal kuliahku nbi [1461600047](nbi)
+- jadwal mata kuliah semester ini nbi [146 160006 6](nbi)
+- jadwal kuliahku hari [kamis](day:Kamis) apa
+- jadwal matkul [besok](day)
+- [besok](day) ada matkul apa
+- jadwal [hari ini](day) apa nbi [146 1600267](nbi)
+- [besok](day) ada matkul apa
+- jadwal kuliah [hari ini](day)
+- kuliah [besok](day) mata kuliahnya apa aja
+- jadwalku [hari ini](day) apa ya
+- [besok](day) jadwalku apa ya
+- jadwalku [hari ini](day) apa aja nih
+- jadwal [hari ini](day)
+- jadwal kuliahku nbi [14616 00 093](nbi)
+- [besok](day) apa matkul ku
+- jadwalku [hari ini](day) apa ya
+- eh jadwalku [besok](day) apa nih
+- [hari ini](day) matkul apa nbi [14615 001 07](nbi)
+- kalau [besok](day) matkulnya apa
+- jadwal [hari ini](day) apa
+- jadwalnya [hari ini](day) apa mata kuliah ku
+- [besok](day) ada matkul apa nih nbi [146 1600097](nbi)
+- [lusa](day) jadwalnya apa aja
+- [hari ini](day) matkulnya apa
+- mata kuliah [besok](day) apa
+- [nanti](time:selanjutnya) kuliah jam berapa aja
+- [besok](day) jadwalnya apa
+- [kamis](day:Kamis) matkulnya apa [146 16000 97](nbi)
+- [kamis](day:Kamis) ada matkul nggak
+- jadwal kuliah hari [selasa](day:Selasa)
+- [nanti](time:selanjutnya) ada kuliah jam berapa aja
+- [besok](day) kuliah [jam](time) berapa
+- [habis ini](time:selanjutnya) ada mata kuliah apa
+- [habis ini](time:selanjutnya) ada mata kuliah apa
+- mata kuliah [sebelumnya](time) [tadi](time:sebelumnya) apa ya
+- pelajaran [tadi](time:sebelumnya) apa
+- [besok](day) aku kuliah [jam](time) berapa nih
+- [besok](day) aku kuliah [jam](time) berapa nih
+- mata kuliah [selanjutnya](time) apa ya
+- mata kuliah [selanjutnya](time) [1461600044](nbi)
+- [besok](day) jadwal kuliahku [jam](time) berapa
+- mata kuliah [barusan](time:sebelumnya) [tadi](time:sebelumnya) apa ya
+- pelajaran apa [habis ini](time:selanjutnya)
+- jadwal kuliah [kemarin](day)
+- [kamis](day:Kamis) besok mata kuliahnya apa
+- [jumat besok](day:Jumat) matkulnya apa
+- [besok senin](day:Senin) ada jadwal apa
+- [rabu besok](day:Rabu) jadwalku apa ya [146 1 60 0197](nbi)
+- jadwal kuliahku [nanti](time:selanjutnya) apa ya
+- [hari ini](day) ada jadwal apa aku
+- [nanti](time:selanjutnya) ada pelajaran apa
+- [tadi](time:sebelumnya) itu pelajarannya apa
+- jadwal hari [senin](day:Senin)
+- [hari ini](day) aku ada kelas nggak
+- [nanti](time:selanjutnya) aku ada pelajaran apa
+- [hari ini](day) aku ada kelas nggak
+- jadwal hari [senin](day:Senin) [1 4 6 1 6 0 00 97](nbi)
+- jadwal [besok](day)
+- aku [tadi](time:sebelumnya) ada kelas jam berapa ya
+- [setelah ini](time:selanjutnya) aku ada kuliah apa nggak
+- pelajaran [sekarang](time) [146 160 0 097](nbi)
+- [sekarang](time) mata kuliahnya apa
+- pelajaran [saat ini](time)
+- pelajaran [sekarang](time) apa nih
+- [sekarang](time) kuliahnya apa
+- jadwal kuliah [sekarang](time)
+- pelajaran [sekarang](time) apa
+- aku [tadi](time:sebelumnya) ada kelas jam berapa ya
+- kamu punya jadwa kuliah aku apa nggak
+- aku [tadi](time:sebelumnya) ada kelas jam berapa ya
+- kamu punya jadwal kuliah aku apa nggak
+
+## intent:thank
+- makasih lo ya
+- terima kasih lo ya
+- terima kasih
+- makasih
+- oke makasi
+- oke makasih
+- makasih ya
+- oke terima kasih
+- oke makasih
+- oke terima kasih banyak
+- oke terima kasih
+- oke makasih
+- oke terima kasih
+- oke terimakasih
+- oke cukup, makasih
+- oke terimakasih
+- oke makasih
+- oke terimakasih
+- terimakasih
+- makasih
+- siap, terima kasih
+- makasih
+- makasih banyak
+- makasih ya
+- terima kasih ya
+- thanks
+- makasih
+- makasih
+- oke makasih
+- siap makasih
+- oke makasih
+- makasih
+- makasih ya
+- makasih ya iva
+- oke makasih ya iva
+- makasih ya
+- makasih ya iva
+- makasih
+- makasih ya buat infonya
+- makasih ya iva
+- makasih
+- makasih ya
+- oke deh makasih
+- siap makasih
+- oke siap makasih ya
+- oke makasih
+- oke lah makasih ya
+- makasih ya iva
+- makasih
+- oke makasih
+- makasih buat infonya
+- oke oke makasih
+- makasih
+- makasih ya
+- oke siap makasih ya
+- makasih ya sudah memberi info
+- oke makasih ya
+- oke deh makasih ya
+- baik iva makasih ya
+- baiklah makasih
+- makasih sis
+- terima kasih banyak atas infonya
+- terima kasih buat info yang kamu berikan
+- baiklah makasih ya iva buat infonya
+- kamu baik banget makasih ya iva
+- baiklah makasih ya dek
+- makasih iva
+- oke makasih ya
+- makasih makasih banyak
+- makasih ya adek iva kamu baik banget
+- makasih ya buat infonya
+- makasih mbak
+
+## intent:trial_schedule
+- kira kira sidang pelaksanaan [sidang proposal](type:tkp) nya kapan
+- kira kira sidang pelaksanaan [tugas akhir](type) nya kapan
+- jadwal [seminar proposal](type:tkp)
+- jadwal [tugas akhir](type)
+- jadwal ujian [sempro](type:tkp) [1461600044](nbi)
+- jadwal ujian [sikripsi](type:tugas akhir) [1461600044](nbi)
+- kapan aku sidang [seminar proposal](type:tkp) nya
+- kamu tahu nggak aku sidang [magang](type:kerja praktek) nya kapan
+- eh jadwal sidang [tkp](type) sudah keluar ta
+- eh jadwal sidang [TA](type:tugas akhir) sudah keluar ta nbi [146 1600144](nbi)
+- kapan ini sidang [kerja praktek](type) [1461600044](nbi)
+- ada jadwal sidang [kp](type:kerja praktek) ta [1461600044](nbi)
+- ada jadwal sidang [skripsi](type:tugas akhir) ta
+- sudah keluar belum jadwal sidang [magangnya](type:kerja praktek)
+- jadwal sidang ku [1461800094](nbi)
+- tampilkan jadwal sidang sekarang
+- tampilkan jadwal sidang [kp](type:kerja praktek)
+- tampilkan jadwal sidang [TA](type:tugas akhir)
+- tolong tampilkan jadwal sidang [sempro](type:tkp) ku
+- info jadwal sidang [kp](type) dong
+- info jadwal sidang [ta](type:tugas akhir) dong
+- sidang [tkp](type)-nya kapan ya [1421 600200](nbi)
+- sidang [skripsi](type:tugas akhir)-nya kapan ya
+- sidangnya kapan [kerja praktek](type) nbi [146 16 0 0 014](nbi)
+- sidangnya kapan [tugas akhir](type)
+- sidang [magang](type:kerja praktek) kapan ya [142 160 0044](nbi)
+- sidang [skripsi](type:tugas akhir) kapan ya
+- kapan ini sidang [kp](type:kerja praktek) nya
+- sidang [kp](type:kerja praktek) nya kapan
+- sidangnya [seminar proposalnya](type:tkp) kapan
+- ada jadwal sidang [kp](type:kerja praktek) [1 461 60 004 3](nbi)
+- ada jadwal sidang [skripsi](type:tugas akhir)
+- kapan sidang [tkp](type) ku [146 16 00144](nbi)
+- kapan jadwalnya sidang [kp](type:kerja praktek)
+- sidangnya kapan [kp](type:kerja praktek) [1461600067](nbi)
+- lihat jadwal sidang [kp](type:kerja praktek)
+- lihat jadwal sidang [tugas akhir](type)
+- kapan sidang [sempro](type:tkp)
+- ada info jadwal sidang [kerja praktek](type)
+- jadwal sidang [magangnya](type:kerja praktek) kapan ya
+- sidang [kerja praktek](type) kapan
+- sidang [tkp](type) nya kapan ya
+- kira kira kapan sidang [tkp](type) dilaksanakan
+- aku sidang [magangnya](type:kerja praktek) kapan
+- aku sidang [kp](type:kerja praktek) kapan
+- [kerja praktek](type) jadwal sidangnya kapan
+- pelaksanaan sidang [proposal](type:tkp) kapan
+- jadwal sidang [sempro](type:tkp)
+- info jadwal sidang [seminar proposal](type:tkp)
+- info jadwal [sidang akhir](type:tugas akhir)
+- kamu tahu jadwal sidang [tkp](type) kapan
+- sidang [KP](type:kerja praktek) jadwalnya kapan
+- sidang [proposal](type:tkp) kapan
+- sidang [tanya](type:tugas akhir) kapan [1461600214](nbi)
+- sidang [TA](type:tugas akhir) kapan
+- ada info sidang [sempro](type:tkp) nggak
+- ada jadwal sidang [magang](type:kerja praktek)
+- jadwal sidang [sempro](type:tkp)
+- jadwal sidang [TAnya](type:tugas akhir)
+- iva kamu tahu jadwal sidang [tkp](type) kapan
+- iva kamu tahu jadwal sidang [TA](type:tugas akhir) nya kapan
+- kira-kira sidang pelaksanaan [sidang proposal](type:tkp) nya kapan
+- jadwal [seminar proposal](type:tkp)
+- jadwal [sidang tea](type:tugas akhir)
+- jadwal ujian [sempro](type:tkp)
+- jadwal ujian [skripsi](type:tugas akhir) nya kapan
+- kapan aku sidang [seminar proposal](type:tkp) nya
+- kapan aku sidang [tugas akhir](type) nya
+- kamu tahu nggak aku sidang [magangnya](type:kerja praktek) kapan
+- sidang [praktek](type:kerja praktek) kapan
+- ujian [TA](type:tugas akhir) nya kapan
+- ujian [tugas akhir](type) kapan
+- jadwal ujian [tugas akhirnya](type:tugas akhir) kapan
+- sidang [tugas akhirnya](type:tugas akhir) kapan ya
+- kapan sidang [tugas akhirnya](type)
+- jadwal [sidang praktek](type:kerja praktek)
+
+## synonym:Dasar Komputer dan Internet
+- daskom
+- dasar komputer
+- dasar dasar komputer
+- daskomnya
+- dasar komputernya
+- dasar dasar komputernya
+
+## synonym:Jumat
+- hari jumat
+- jumat
+- besok jumat
+- jumat besok
+
+## synonym:Kamis
+- hari Kamis
+- hari kamis
+- kamis
+- besok kamis
+- kamis besok
+
+## synonym:Komputer Grafik dan Visualisasi Data
+- komgraf
+- komgrafku
+- komputer grafik
+- visualisasi data
+- komgrafis
+- grafis
+- Komputer Grafik dan Visualisasi Data
+- komgrafnya
+- komputer grafiknya
+- visualisasi datanya
+- komgrafisnya
+- grafisnya
+- Komputer Grafik dan Visualisasi Datanya
+
+## synonym:Manajemen Data dan Informasi
+- mandatin
+- database
+- basis data
+- manajemen data
+- mysql
+- oracle
+- my SQL
+- SQL
+- pentaho
+- mandatinnya
+- databasenya
+- basis datanya
+- manajemen datanya
+- mysqlnya
+
+## synonym:Mikroprosessor
+- mikro
+- prosesor
+- mikroprosessor
+- hardware
+- mikronya
+- prosesornya
+- mikroprosessornya
+- hardwarenya
+
+## synonym:Pemrograman Dasar
+- prodas
+- dasar pemrograman
+- c plus plus
+- progdasku
+- daspro
+- progdas
+- prokdas
+- si plus plus
+- dasar - dasar pemrograman
+
+## synonym:Pemrograman Lanjut
+- java
+- pbo
+- proglan
+- proklan
+- javaku
+- javaqu
+- javanya
+- pemrograman berbasis objek
+- netbeans
+- netbin
+
+## synonym:Pengembangan Teknologi Mobile
+- androidku
+- mobile
+- android
+- PTM
+- ptm
+- pengembangan mobile
+- androidnya
+- teknologi mobile
+- pt m
+- p t m
+
+## synonym:Pengembangan Teknologi Website
+- web
+- website
+- PTW
+- teknologi website
+- pemrograman web
+- webnya
+- web daskom
+- p t w
+- pt w
+- PTI
+- tekonologi web
+
+## synonym:Pengolahan Citra Digital
+- PCD
+- citra digital
+- pcd
+- citra
+- pengolahan citra
+- PCDnya
+- citra digitalnya
+- pcdnya
+- pengolahan citranya
+
+## synonym:Rabu
+- besok rabu
+- rabu
+- rabu besok
+
+## synonym:Rangkaian Logika
+- rl
+- rangkaian logika
+- RL
+- rlnya
+- rangkaian logikanya
+
+## synonym:Selasa
+- hari selasa
+- selasa
+- besok selasa
+- selasa besok
+
+## synonym:Senin
+- hari senin
+- senin
+- besok senin
+- senin besok
+
+## synonym:Sistem Digital
+- sisdig
+- sistik
+- sistem digital
+- sisdik
+- sistim digital
+
+## synonym:Sistem Jaringan Komputer
+- jarkom
+- jaringan komputer
+- komputer jaringan
+- jaringan
+
+## synonym:Sistem Operasi
+- SO
+- so
+- sistem linux
+- Sonya
+- linux
+
+## synonym:kerja praktek
+- magang
+- kp
+- magangnya
+- kerja prakteknya
+- KP
+- praktek
+- sidang praktek
+- kpnya
+- kerja praktek
+
+## synonym:luvia
+- luv
+
+## synonym:nuril esti
+-  nuril est
+- nuril est
+
+## synonym:pendaftaran kerja praktek
+- daftar magang
+- pendaftaran magang
+- mendaftar kerja praktek
+- daftar kerja praktek
+- pendaftaran kp
+- daftar kp
+- mendaftar kp
+- daftra kp
+- pendaftaran kerja praktek
+
+## synonym:pendaftaran praktikum
+- pendaftaran praktikumnya
+- daftar praktikum
+- daftar praktkum
+- mendaftar praktikum
+- terdaftar di praktikum
+- mendaftarkan diri
+- praktikum
+- pendaftaran praktikum
+- pendafataran praktikumnya
+
+## synonym:pendaftaran tkp
+- daftar tkp
+- daftar seminar proposal
+- daftar sempro
+- mendaftar tkp
+- daftar topik khusus penelitian
+- daftar TKP
+- pendaftaran topik khusus penelitian
+- pendaftaran seminar proposal
+- mendaftar seminar proposal
+- mendaftarkan seminar proposal
+- mendaftarkan tkp
+
+## synonym:pendaftaran tugas akhir
+- daftar tugas akhir
+- pendaftaran ta
+- daftar tea
+
+## synonym:praktikum
+- praktikumnya
+- praktikum nya
+
+## synonym:sebelumnya
+- tadi
+- barusan
+- sebelumnya
+
+## synonym:sekarang
+- saat ini
+
+## synonym:selanjutnya
+- nanti
+- habis ini
+- setelah ini
+- setelah
+
+## synonym:tkp
+- sempro
+- topik khusus penelitian
+- seminar proposal
+- sempronya
+- sidang proposal
+- seminar proposalnya
+- proposal
+- tkpnya
+
+## synonym:tugas akhir
+- sikripsi
+- TA
+- skripsi
+- ta
+- sidang akhir
+- tanya
+- TAnya
+- sidang tea
+- tugas akhirnya
+
+## synonym:uas
+- uasnya
+- uas-nya
+- ujian akhir semesternya
+- ujian akhir
+- ujian akhir semester
+- uasku
+- ulangan akhir semester
+
+## synonym:uts
+- uts-nya
+- utsnya
+- ujian tengah semesternya
+- ujian tengah semester
+
+## lookup:practicums
+  data/lookup_tables/practicums.txt
+
+## lookup:days
+  data/lookup_tables/days.txt
+
+## lookup:times
+  data/lookup_tables/times.txt

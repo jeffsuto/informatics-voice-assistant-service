@@ -1,0 +1,11 @@
+Senin
+Selasa
+Rabu
+Kamis
+Jumat
+Sabtu
+Minggu
+besok
+lusa
+hari ini
+kemarin

@@ -1,0 +1,77 @@
+actions:
+- action_exam_schedule
+- action_lecturer
+- action_lecturer_location
+- action_lecturer_schedule
+- action_lecturer_whatsapp_number
+- action_practicum_schedule
+- action_practicum_value
+- action_procedure
+- action_registration_schedule
+- action_slot_reset
+- action_student_schedule
+- action_trial_schedule
+- utter_ask_lecturer_name
+- utter_goodbye
+- utter_greet
+- utter_thank
+- utter_unclear
+entities:
+- day
+- exam
+- lecturer
+- practicum
+- time
+- type
+- nbi
+intents:
+- lecturer_schedule
+- registration_schedule
+- student_schedule
+- practicum_schedule
+- lecturer_whatsapp_number
+- trial_schedule
+- procedure
+- practicum_value
+- lecturer_location
+- lecturer
+- exam_schedule
+- thank
+- goodbye
+- greet
+slots:
+  ask_lecturer_location:
+    type: bool
+  ask_lecturer_schedule:
+    type: bool
+  ask_lecturer_whatsapp_number:
+    type: bool
+  day:
+    type: text
+  exam:
+    type: text
+  lecturer:
+    type: text
+  lecturer_location:
+    type: text
+  lecturer_whatsapp_number:
+    type: text
+  practicum:
+    type: text
+  time:
+    type: text
+  type:
+    type: text
+templates:
+  utter_ask_lecturer_name:
+  - text: atas nama siapa?
+  utter_goodbye:
+  - text: bye bye
+  utter_greet:
+  - text: Hai, apakah ada yang bisa saya bantu?
+  - text: hallo, apakah ada yang bisa saya bantu?
+  utter_thank:
+  - text: sama sama
+  - text: terima kasih kembali
+  utter_unclear:
+  - text: maaf, saya tidak paham apa yang anda maksud
